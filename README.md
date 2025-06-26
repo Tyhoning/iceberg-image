@@ -26,7 +26,7 @@
 
 ![](./images/img001.png)
 
-This project offers pre-configured [**OpenMetadata metadata management platform**](https://marketplace.huaweicloud.com) images with OpenMetadata and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**Iceberg data storage format**](https://marketplace.huaweicloud.com) images with Iceberg and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 > **System Requirements:**
 > - CPU: 2GHz or higher  
@@ -40,11 +40,11 @@ This project offers pre-configured [**OpenMetadata metadata management platform*
 
 | Image Version                                                                                                      | Description                                              | Notes |  
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------|  
-| [OpenMetadata2.1_HCE2.0](https://marketplace.huaweicloud.com) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [OpenMetadata2.1_Ubuntu24.04](https://marketplace.huaweicloud.com) | Deployed on Kunpeng servers with Ubuntu24.04 64bit   |  |  
+| [Iceberg1.6_HCE2.0](https://marketplace.huaweicloud.com) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
+| [Iceberg1.6_Ubuntu24.04](https://marketplace.huaweicloud.com) | Deployed on Kunpeng servers with Ubuntu24.04 64bit   |  |  
 
 ## Getting Help
-- Submit an [issue](https://github.com/HuaweiCloudDeveloper/OpenMetadata-image/issues)
+- Submit an [issue](https://github.com/HuaweiCloudDeveloper/Iceberg-image/issues)
 - Contact Huawei Cloud Marketplace product support
 
 ## How to Contribute
