@@ -40,8 +40,8 @@ This project offers pre-configured [**Iceberg data storage format**](https://mar
 
 | Image Version                                                  | Description                                              | Notes |  
 |----------------------------------------------------------------|----------------------------------------------------------|-------|  
-| [Iceberg1.6-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/Iceberg1.6-kunpeng-v1.0) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [Iceberg1.6-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/airflow-image/tree/Iceberg1.6-kunpeng-v1.0) | Deployed on Kunpeng servers with Ubuntu24.04 64bit   |  |  
+| [Iceberg1.6-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/iceberg-image/tree/Iceberg1.6-kunpeng-v1.0) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
+| [Iceberg1.6-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/iceberg-image/tree/Iceberg1.6-kunpeng-v1.0) | Deployed on Kunpeng servers with Ubuntu24.04 64bit   |  |  
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/iceberg-image/issues)
