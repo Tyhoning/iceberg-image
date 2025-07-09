@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Iceberg数据存储格式](https://marketplace.huaweicloud.com/)
+- 镜像商品：[Iceberg数据存储格式](https://marketplace.huaweicloud.com/hidden/contents/34354512-a433-401b-aa67-5ac9df1b6b62#productid=OFFI1148937746921562112)
 - 镜像规格：Iceberg1.6-kunpeng-v1.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：Kunpeng-ARM

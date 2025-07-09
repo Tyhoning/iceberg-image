@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Iceberg数据存储格式](https://marketplace.huaweicloud.com/)
+[Iceberg数据存储格式](https://marketplace.huaweicloud.com/hidden/contents/34354512-a433-401b-aa67-5ac9df1b6b62#productid=OFFI1148937746921562112)
 
 # 二、商品说明
 
@@ -63,28 +63,40 @@
 # 四、商品使用
 
 ## 修改服务器域名
-vim /etc/hosts  
+```shell
+vim /etc/hosts
+```  
 x.x.x.x hadoop1  修改成本机服务器ip
 
 ## hadoop用户重新生成免密
-删除文件  
+* 删除旧密钥文件  
+```shell
 su - hadoop  
 cd .ssh  
 rm -rf id_rsa  id_rsa.pub  known_hosts  
+```
 
-生成免密  
+* 免密登录
+```shell
 ssh-keygen -t rsa  
 ssh-copy-id hadoop1		-- hadoop 密码 例如 123456  
+```
 
 ## 启动hadoop服务器
+```shell
 /opt/module/hadoop-3.1.3/sbin/start-all.sh
+```
 
 ## 使用hive
+```shell
 /opt/module/hive-3.1.3/bin/hive
+```
 
 ### iceberg样例
-创建iceberg表  
+* 创建iceberg表
+```Hive sql
 CREATE TABLE iceberg_test1 (id int,name string) STORED BY 'org.apache.iceberg.mr.hive.HiveIcebergStorageHandler';  
+```
 
 ## 参考文档
 
