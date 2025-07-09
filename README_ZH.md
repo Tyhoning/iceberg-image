@@ -27,7 +27,7 @@
 ![](./images/img001.png)
 
 
-本项目提供的开源镜像商品 [**Iceberg数据存储格式**](https://marketplace.huaweicloud.com)，已预先安装 Iceberg 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Iceberg数据存储格式**](https://marketplace.huaweicloud.com/hidden/contents/34354512-a433-401b-aa67-5ac9df1b6b62#productid=OFFI1148937746921562112)，已预先安装 Iceberg 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
@@ -39,9 +39,9 @@
 
 ## 镜像说明
 
-| 镜像规格                                                          | 特性说明                                         | 备注 |
-|---------------------------------------------------------------|----------------------------------------------| --- |
-| [Iceberg1.6-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/iceberg-image/tree/Iceberg1.6-kunpeng-v1.0)      | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| 镜像规格                                                                                                          | 特性说明                                         | 备注 |
+|---------------------------------------------------------------------------------------------------------------|----------------------------------------------| --- |
+| [Iceberg1.6-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/iceberg-image/tree/Iceberg1.6-kunpeng-v1.0) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 | [Iceberg1.6-kunpeng-v1.0](https://github.com/HuaweiCloudDeveloper/iceberg-image/tree/Iceberg1.6-kunpeng-v1.0) | 基于 鲲鹏服务器 + Ubuntu24.04 64bit 安装部署         |  |
 
 ## 获取帮助
